@@ -36,7 +36,7 @@ struct Tiger {
         }
     }
     
-    func ageInTigerYearsFromAge (regularAge: Int) -> Int {
+    func ageInTigerYearsFromAge(regularAge: Int) -> Int {
         let newAge = regularAge * 3
         return newAge
     }
